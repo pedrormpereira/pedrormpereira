@@ -24,5 +24,6 @@ Below, you can find a list of the programming languages and tools I’m most com
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/pedro-pereira-6a480428a/)#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/pedro-pereira-6a480428a/)#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pedro-pereira-6a480428a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pedro-pereira-6a480428a#gh-dark-mode-only)
+
