@@ -4,6 +4,10 @@
 
 Hi! I’m a recently graduated software developer. During my studies, I completed an internship at Timestamp, where I developed a forensic analysis tool in Python. Unfortunately, the source code is not publicly available, as it is now the property of Timestamp. One of my most significant accomplishments was a two-year solo project - a fully functional player-vs-player programming website that I built from the ground up as part of my computer science degree. You can check it out [here](https://github.com/pedrormpereira/DevDuels).
 
+- 🌱 I’m currently learning German
+- 👯 I’m looking to work in the IT world!
+- 🥅 2025 Goals: Code more!
+
 Below, you can find a list of the programming languages and tools I’m most comfortable with!
 
 ### 🧰 Languages and Tools
@@ -29,9 +33,5 @@ Below, you can find a list of the programming languages and tools I’m most com
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pedro-pereira-6a480428a#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pedro-pereira-6a480428a#gh-dark-mode-only)
 
-- 🌱 I’m currently learning German
-- 👯 I’m looking to work in the IT world!
-- 🥅 2025 Goals: Code more!
-
-💬 Thanks for visiting my profile — feel free to reach out!
+💬 Thanks for visiting my profile! Feel free to reach out via LinkedIn or by email at: pedrorim.pereira@gmail.com
 
